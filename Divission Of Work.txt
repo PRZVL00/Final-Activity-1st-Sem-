@@ -1,0 +1,11 @@
+Bautista - Reservation module
+	 - Sign Up Module
+
+Silatory - Homepage module
+	 - Managerial Module (Feeback, Sales) 
+
+Barbon   - Confirmation Module
+	 - Billig Module
+	 - Log In Module
+       
+Magbanua - Managerial Module(Inventory, Booking, Checkout)
